@@ -1,4 +1,4 @@
-const CLOUDNAME = "[your Cloudinary cloud name]";
+const CLOUDNAME = "iarenotamnot";
 const FOLDER = "[optional asset folder in Cloudinary]";
 const BASE_URL = `https://res.cloudinary.com/${CLOUDNAME}/image/upload/`;
 const FALLBACK_WIDTHS = [300, 600, 680, 1360];
